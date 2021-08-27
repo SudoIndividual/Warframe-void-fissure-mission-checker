@@ -16,7 +16,7 @@ Import the necessary info and follow this guide line
 ## Setup
 Git clone the file into your directory
 
-    git clone https://github.com/Zhien02/Warframe-void-fissure-mission-checker.git
+    git clone https://github.com/SudoIndividual/Warframe-void-fissure-mission-checker.git
 In command prompt go to the cloned directory
 
     cd Warframe-void-fissure-mission-checker
